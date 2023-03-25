@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\bin\Debug\net6.0\Examples008_IntroMagic.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\bin\Debug\net6.0\Examples008_IntroMagic.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\bin\Debug\net6.0\Examples008_IntroMagic.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\bin\Debug\net6.0\Examples008_IntroMagic.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\bin\Debug\net6.0\Examples008_IntroMagic.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\refint\Examples008_IntroMagic.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\Examples008_IntroMagic.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Работа\Examples\Examples008_IntroMagic\obj\Debug\net6.0\ref\Examples008_IntroMagic.dll
